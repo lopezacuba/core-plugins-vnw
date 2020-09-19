@@ -14,7 +14,7 @@ This is Jomres orginal extension -> .VNW <- is also zip format.
 
 1. Download and rename .VNW to .ZIP then unZip file in its own folder.
 2. Open folder and Zip up or Compress each folder using the same name as the folder.
-3. For example: folder "ajax_search" will be Compressed as "ajax_search.zip".
+3. For example: file "ajax_search.vnw" will be renamed to "ajax_search.zip".
 4. Next, Install the ZIP file thru Jomres Third Party plugin installer.
 5. Then move the folder "ajax_search" from remote_plugins to core-plugins.
 6. Do this for ALL these plugins.
