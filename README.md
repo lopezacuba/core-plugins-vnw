@@ -10,6 +10,8 @@ http://www.nwbooking.com/
 
 ================================================
 
+This is Jomres orginal extension -> .VNW <- is also zip format.
+
 1. Download and rename .VNW to .ZIP then unZip file in its own folder.
 2. Open folder and Zip up or Compress each folder using the same name as the folder.
 3. For example: folder "ajax_search" will be Compressed as "ajax_search.zip".
